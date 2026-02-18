@@ -20,6 +20,13 @@ const products = [
         price: "$1,600",
         image: "img/pc_gamer.jpg"
     },
+       {
+        name: "PC Ryzen Pro Max",
+        category: "pc",
+        specs: "Ryzen 7 • 32GB RAM • 1TB NVMe • RTX 4070",
+        price: "$1,600",
+        image: "img/pc_gamer.jpg"
+    },
     {
         name: "Monitor 24'' IPS",
         category: "monitor",
